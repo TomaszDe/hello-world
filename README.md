@@ -3,8 +3,8 @@ Branch po zmianie
 
 Program C++
 
-#include <iostream>
-#include <cstdlib>
+ #include <iostream>
+ #include <cstdlib>
 
 using namespace std;
 
